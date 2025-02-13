@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerezDAlejo
-- 👀 I’m interested in Learn new things and gain experience in programming
-- 🌱 I’m currently learning about Server managment and ethical hacking
+- 👀 I’m interested in Learning new things and gain experience in programming
+- 🌱 I’m currently studing about Server managment and ethical hacking
 - 💞️ I’m looking to collaborate on Projects related to data science and cybersecurity!
 - 📫 How to reach me perezdavilaalejandro1@gmail.com
 - 😄 Pronouns: he/him
