@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PerezDAlejo, a Junior developer and a current cibersecurity student
+- 👋 Hi, I’m @PerezDAlejo
 - 👀 I’m interested in Learning new things and gain experience in programming
-- 🌱 I’m currently studing about Server managment and ethical hacking
+- 🌱 I’m currently a Junior developer and a Server managment and cibersecurity student
 - 💞️ I’m looking to collaborate on Projects related to data science and cybersecurity!
 - 📫 How to reach me perezdavilaalejandro1@gmail.com
 - 😄 Pronouns: he/him
