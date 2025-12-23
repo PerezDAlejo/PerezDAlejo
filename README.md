@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PerezDAlejo
+- 👋 Hi, I’m @PerezDAlejo, a Junior developer and a current cibersecurity student
 - 👀 I’m interested in Learning new things and gain experience in programming
 - 🌱 I’m currently studing about Server managment and ethical hacking
 - 💞️ I’m looking to collaborate on Projects related to data science and cybersecurity!
